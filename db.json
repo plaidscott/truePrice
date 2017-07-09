@@ -1,0 +1,18 @@
+{
+  "users": [
+    { "id": 1, "fname": "Keith", "lname": "Schermerhorn"},
+    { "id": 2, "fname": "Aragorn", "lname": "Elessar"},
+    { "id": 3, "fname": "Bilbo", "lname": "Baggins"},
+    { "id": 4, "fname": "Frodo", "lname": "Baggins"},
+    { "id": 5, "fname": "Scott", "lname": "Allen"}
+  ],
+  "vehicles": [
+    {"id": 1, "associatedUser": 1, "make": "honda", "model": "accord", "submodel": "lx", "mileage": 130000, "year": 2015, "engSize": 2.5, "bodyStyle": "coupe", "listPrice": 5000, "mpg": 26, "truePrice": 0, "estRepairCosts": 300 },
+    {"id": 2, "associatedUser": 3, "make": "honda", "model": "civic", "submodel": "x", "mileage": 140000, "year": 2015, "engSize": 2, "bodyStyle": "sedan", "listPrice": 5500, "mpg": 26, "truePrice": 0, "estRepairCosts": 345 },
+    {"id": 3, "associatedUser": 1, "make": "toyota", "model": "fj", "submodel": "fr", "mileage": 150000, "year": 2015, "engSize": 4, "bodyStyle": "suv", "listPrice": 6000, "mpg": 15, "truePrice": 0, "estRepairCosts": 400 },
+    {"id": 4, "associatedUser": 5, "make": "toyota", "model": "tacoma", "submodel": "sr", "mileage": 10000, "year": 2015, "engSize": 5, "bodyStyle": "truck", "listPrice": 12000, "mpg": 24, "truePrice": 0, "estRepairCosts": 450 },
+    {"id": 5, "associatedUser": 2, "make": "ford", "model": "focus", "submodel": "basic", "mileage": 30000, "year": 2015, "engSize": 1.5, "bodyStyle": "sedan", "listPrice": 25000, "mpg": 40, "truePrice": 0, "estRepairCosts": 1000 },
+    {"id": 6, "associatedUser": 4, "make": "ford", "model": "focus", "submodel": "deluxe", "mileage": 50000, "year": 2015, "engSize": 1.5, "bodyStyle": "coupe", "listPrice": 5000, "mpg": 40, "truePrice": 0,"estRepairCosts": 3000 },
+    {"id": 7, "associatedUser": 2, "make": "ford", "model": "focus", "submodel": "deluxe", "mileage": 0, "year": 2015, "engSize": 1.5, "bodyStyle": "hatchback", "listPrice": 15000, "mpg": 40, "truePrice": 0,"estRepairCosts": 10000 }
+  ]
+}
