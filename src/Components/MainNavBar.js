@@ -7,7 +7,7 @@ class MainNavBar extends Component {
         return (
             <div className="MainNavBar">
                 <Navbar color="faded" light toggleable>
-                    <NavbarBrand href="#">TruePrice</NavbarBrand>
+                    <NavbarBrand href="/">TruePrice</NavbarBrand>
                     <Collapse isOpen={true} navbar>
                         <Nav className="ml-auto" navbar>
                             <NavItem>
