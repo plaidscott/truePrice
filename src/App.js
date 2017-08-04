@@ -16,10 +16,10 @@ class App extends Component {
           <div className="AppBody">
               <Container>
                   <Row>
-                      <Col class="BodyContainer" xs="3">
+                      <Col className="BodyContainer" xs="3">
                           <VehicleInput/>
                       </Col>
-                      <Col class="BodyContainer" lg="9">
+                      <Col className="BodyContainer" lg="9">
                           <VehicleCards/>
                       </Col>
                   </Row>

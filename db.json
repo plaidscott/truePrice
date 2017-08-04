@@ -7,12 +7,12 @@
     { "id": 5, "fname": "Scott", "lname": "Allen"}
   ],
   "vehicles": [
-    {"id": 1, "associatedUser": 1, "make": "honda", "model": "accord", "submodel": "lx", "mileage": 130000, "year": 2015, "engSize": 2.5, "bodyStyle": "coupe", "listPrice": 5000, "mpg": 26, "truePrice": 0, "estRepairCosts": 300 },
+    {"id": 1, "associatedUser": 1, "make": "honda", "model": "accord", "submodel": "lx", "mileage": 130000, "year": 2015, "engSize": 2.5, "bodyStyle": "coupe", "listPrice": 5000, "mpg": 26, "truePrice": 0, "estRepairCosts": 300, "img": "https://www.google.com/imgres?imgurl=http%3A%2F%2Fbuyersguide.caranddriver.com%2Fmedia%2Fassets%2Fsubmodel%2F8000.jpg&imgrefurl=http%3A%2F%2Fwww.caranddriver.com%2Fnissan%2Ffrontier&docid=F8_an998eg9pIM&tbnid=E-AjzTs2h2KNeM%3A&vet=10ahUKEwjQmoiaqr7VAhUnw1QKHajxA98QMwiiAigFMAU..i&w=800&h=489&bih=803&biw=1600&q=nissan%20frontier&ved=0ahUKEwjQmoiaqr7VAhUnw1QKHajxA98QMwiiAigFMAU&iact=mrc&uact=8" },
     {"id": 2, "associatedUser": 3, "make": "honda", "model": "civic", "submodel": "x", "mileage": 140000, "year": 2015, "engSize": 2, "bodyStyle": "sedan", "listPrice": 5500, "mpg": 26, "truePrice": 0, "estRepairCosts": 345 },
     {"id": 3, "associatedUser": 1, "make": "toyota", "model": "fj", "submodel": "fr", "mileage": 150000, "year": 2015, "engSize": 4, "bodyStyle": "suv", "listPrice": 6000, "mpg": 15, "truePrice": 0, "estRepairCosts": 400 },
     {"id": 4, "associatedUser": 5, "make": "toyota", "model": "tacoma", "submodel": "sr", "mileage": 10000, "year": 2015, "engSize": 5, "bodyStyle": "truck", "listPrice": 12000, "mpg": 24, "truePrice": 0, "estRepairCosts": 450 },
     {"id": 5, "associatedUser": 2, "make": "ford", "model": "focus", "submodel": "basic", "mileage": 30000, "year": 2015, "engSize": 1.5, "bodyStyle": "sedan", "listPrice": 25000, "mpg": 40, "truePrice": 0, "estRepairCosts": 1000 },
-    {"id": 6, "associatedUser": 4, "make": "ford", "model": "focus", "submodel": "deluxe", "mileage": 50000, "year": 2015, "engSize": 1.5, "bodyStyle": "coupe", "listPrice": 5000, "mpg": 40, "truePrice": 0,"estRepairCosts": 3000 },
-    {"id": 7, "associatedUser": 2, "make": "ford", "model": "focus", "submodel": "deluxe", "mileage": 0, "year": 2015, "engSize": 1.5, "bodyStyle": "hatchback", "listPrice": 15000, "mpg": 40, "truePrice": 0,"estRepairCosts": 10000 }
+    {"id": 6, "associatedUser": 4, "make": "ford", "model": "focus", "submodel": "deluxe", "mileage": 50000, "year": 2015, "engSize": 1.5, "bodyStyle": "coupe", "listPrice": 5000, "mpg": 40, "truePrice": 0, "estRepairCosts": 3000 },
+    {"id": 7, "associatedUser": 2, "make": "ford", "model": "focus", "submodel": "deluxe", "mileage": 0, "year": 2015, "engSize": 1.5, "bodyStyle": "hatchback", "listPrice": 15000, "mpg": 40, "truePrice": 0, "estRepairCosts": 10000 }
   ]
 }
